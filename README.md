@@ -1,0 +1,1 @@
+This project revolves around controlling the Jebot using the NVIDIA Jetson Nano both my remote and completely autonmously. For the project the Jupyter notebook was used to program the Jetbot using teleoperation, road following, and object avoidance.   
